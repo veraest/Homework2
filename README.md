@@ -13,9 +13,10 @@
 
 Ниже пример кода из нашего приложения:
 
-'''
+```
+
 .selector {
   font-family: "Awesome", Arial, sans-serif;
   color: red;
 }
-'''
+```
